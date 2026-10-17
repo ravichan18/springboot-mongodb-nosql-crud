@@ -1,0 +1,7 @@
+# IDE and build artifacts
+.idea/
+.gradle/
+**/build/
+out/
+*.iml
+.DS_Store

@@ -1,2 +1,4 @@
-# springboot-mongodb-nosql-crud
-Spring Boot MongoDB NoSQL CRUD project imported from AlanBinu007/Spring-Boot-Advanced-Projects
+
+
+## References
+1. [CRUD Spring Boot + Mongo DB](https://www.javaguides.net/2019/12/spring-boot-mongodb-crud-example-tutorial.html)
