@@ -3,8 +3,8 @@
 use crud2employee;
 db.createUser(
   {
-    user: "urunov",
-    pwd: "parol!",
+    user: "<>",
+    pwd: "<>",
     roles : [
       { role: "readWrite", db: "crud2employee" },
        { role: "readWrite", db: "projects" }
